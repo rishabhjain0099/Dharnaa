@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dharnaa</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
+    <string name="title_activity_signup">signup</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email id</string>
+</resources>
